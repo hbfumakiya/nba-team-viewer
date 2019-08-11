@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">theScore</string>
+    <string name="wins">WINS :</string>
+    <string name="lost">LOST :</string>
+	<string name="sortbyNames">Sort by Names</string>
+	<string name="sortbyWins">Sort by Wins</string>
+	<string name="sortbyLosses">Sort by Losses</string>
+	<string name="apiError">Unable to read data from API</string>
+	<string name="no_data_found">No data found</string>
+	<string name="position">POSITION:</string>
+	<string name="playerNumber">PLAYER NUMBER:</string>
+	<string name="players">Players</string>
+</resources>
